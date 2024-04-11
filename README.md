@@ -1,2 +1,1 @@
 # suricata-rule
-# suricata-rule
